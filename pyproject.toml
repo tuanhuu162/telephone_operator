@@ -6,7 +6,7 @@ authors = ["tuan.tran <tuan.tran@parcelperform.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.8"
 faker = "^22.5.1"
 
 
