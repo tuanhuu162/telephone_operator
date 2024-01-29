@@ -1,0 +1,10 @@
+Phone number, Operator, Price
+68123456789, not found,
+12498312, operatorA, 0.9
+54212331, not found,
+12343252, operatorA, 0.9
+45666564, not found,
+44123412, operatorB, 0.5
+46732111, operatorA, 1.1
+467382123, operatorA, 0.9
+467888888, operatorB, 1.0
