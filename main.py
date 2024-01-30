@@ -4,7 +4,10 @@ from telephone_operator import OperatorProcessor
 
 
 if __name__ == "__main__":
-    parser = ArgumentParser()
+    parser = ArgumentParser(
+        usage="python main.py -l <operator_files_1> <operator_files_2> -p <phone_number_file> -o <output_file>",
+        description="Find best price for all phone numbers listed in input file, base on list of operator files"
+    )
     parser.add_argument("--list_operator_files", "-l", nargs="+", required=True, help="List of operator files")
     parser.add_argument("--phone_number_file", "-p", required=True, help="Phone number file path")
     parser.add_argument("--output_file", "-o", default="output.txt", help="Output file path")
