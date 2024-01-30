@@ -1,5 +1,5 @@
 # telephone_operator
-Repo for the telephone operator project
+Repo for the telephone operator project 
 
 ## How to run
 1. Clone the repo
@@ -17,3 +17,7 @@ Sample command :
     
 ## How to run tests
 1. Run the project with command `python -m unittest`
+
+## Author 
+Tran Huu Tuan 
+Linkedin: https://www.linkedin.com/in/tuan-huu/
