@@ -21,3 +21,4 @@ Sample command :
 ## Author 
 Tran Huu Tuan 
 Linkedin: https://www.linkedin.com/in/tuan-huu/
+For my current cv, please help to check at [cv/CV-backend_engineer_v5.pdf](cv/CV-backend_engineer_v5.pdf)
